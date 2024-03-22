@@ -1,6 +1,6 @@
 <template>
     <div class="flex items-center justify-center h-screen">
-        <div class="w-2/5 border-2 border-blue-400 rounded-lg p-10">
+        <div class="w-2/3 lg:w-2/5 border-2 border-blue-400 rounded-lg lg:p-10">
             <h1 class="text-center">Authentification</h1>
             <UDivider class="p-1" />
             <div class="space-y-4">
